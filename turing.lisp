@@ -226,8 +226,4 @@ definition format"
   (execute-until-done)			;run the program
 )
 
-
-
-
-
-	     
+(add-two-numbers '(1 0 1 0) '(0 1 0 1))
